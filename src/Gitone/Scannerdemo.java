@@ -11,5 +11,6 @@ public class Scannerdemo {
         int a=sc.nextInt();
         System.out.println("Name="+str);
         System.out.println("a="+a);
+        System.out.println("Hello");
     }
 }

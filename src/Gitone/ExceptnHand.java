@@ -8,6 +8,7 @@ public static void main(String args[]){
     try{
         c=a/b;
         System.out.println(" value of c"+c);
+        System.out.println(" value of c"+c);
     }
 
     catch (ArithmeticException e ) {
